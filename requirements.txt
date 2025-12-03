@@ -1,6 +1,5 @@
 # === Core ===
-# Eğer bu bir Streamlit projesi ise aşağıdaki yorumu kaldır:
-# streamlit
+streamlit
 
 # === Web Framework (Backend varsa) ===
 fastapi
