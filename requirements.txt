@@ -10,6 +10,7 @@ langchain == 0.3.27
 langchain-community
 langchain-openai
 langchain-core
+langchain-chroma
 openai
 chromadb
 
