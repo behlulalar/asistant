@@ -1,0 +1,18 @@
+# --- Python Gereksiz Dosyaları ---
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# --- Sanal Ortamlar (YÜKLEME!) ---
+pymupdf-venv/
+.venv/
+env/
+venv/
+
+# --- Gizli Anahtarlar ---
+.env
+
+# --- Büyük Veritabanı (Opsiyonel) ---
+# Eğer veritabanın 100MB'dan büyükse bunu da ekle, sunucu kendi oluştursun.
+# Eğer küçükse (#) işaretini kaldırıp yükleyebilirsin.
+vector_store/chroma_db_data/

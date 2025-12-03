@@ -1,0 +1,45 @@
+# === Environment & Config ===
+python-dotenv==1.0.1
+pydantic==2.8.2
+
+# === Web Framework ===
+fastapi==0.115.0
+uvicorn==0.30.6
+starlette==0.37.2
+
+# === Scheduling & Async Tasks ===
+APScheduler==3.10.4
+
+# === Web Scraping / Parsing ===
+requests==2.32.3
+beautifulsoup4==4.12.3
+html5lib==1.1
+lxml==5.2.2
+
+# === LangChain & OpenAI ===
+langchain==0.3.6
+langchain-core==0.3.15 Check the version!
+langchain-community==0.3.5
+langchain-openai==0.3.2
+openai==1.58.1
+
+# === Vector Store (ChromaDB) ===
+chromadb==0.5.4
+
+# === Embeddings & ML ===
+tiktoken==0.7.0
+numpy==1.26.4
+scikit-learn==1.5.2
+
+# === Logging / Utility ===
+loguru==0.7.2
+colorama==0.4.6
+
+# === Optional Async Tools ===
+aiohttp==3.10.5
+aiofiles==24.1.0
+tenacity==8.5.0
+
+# === Security ===
+cryptography==43.0.1
+python-multipart==0.0.9
